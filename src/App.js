@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 import activePoints from "./info/texts";
 
 import "./App.css";
-//"homepage":"https://robertasliekis.github.io/raseiniu-knyga-test/",
+//"homepage":"https://robertasliekis.github.io/lvjc-zemelapis-test/",
 //"homepage": "http://localhost:3000/",
 
 function App() {
