@@ -107,6 +107,7 @@ img.flag-board {
   width: auto;
   top: 62.9%;
   left: 22.2%;
+  z-index: 1;
 }
 
 .icons-wrapper {
@@ -202,6 +203,7 @@ img.flag-board {
   padding: 30px;
   padding-top: 40px;
   border-radius: 20px;
+  z-index: 10;
 
   .btn-close {
     position: absolute;
@@ -280,11 +282,18 @@ img.flag-board {
 
   .info-window {
     top: 0;
-    padding-top: 60px;
+    padding-top: 50px;
     transform: translate(-50%, 10px);
     width: calc(100% - 20px);
     font-size: 13px;
     line-height: 17px;
+
+    .btn-close {
+      top: 10px;
+      right: 10px;
+      width: 30px;
+      height: 30px;
+    }
 
     p {
       line-height: 17px;
