@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/lvjc-zemelapis-test/static/css/main.473e34c1.css",
-    "main.js": "/lvjc-zemelapis-test/static/js/main.84d81dc5.js",
-    "static/media/map_icons.jpg": "/lvjc-zemelapis-test/static/media/map_icons.a773577636fc3a2c4322.jpg",
-    "static/media/iskaba.png": "/lvjc-zemelapis-test/static/media/iskaba.26301db635197747173a.png",
-    "static/media/savipagalba.png": "/lvjc-zemelapis-test/static/media/savipagalba.8584bf1f688e87b48e5b.png",
-    "static/media/pagalba.png": "/lvjc-zemelapis-test/static/media/pagalba.75a87da2a4a4e621bc28.png",
-    "static/media/valtyje.png": "/lvjc-zemelapis-test/static/media/valtyje.4ed30e385726433683d6.png",
-    "static/media/veliava.png": "/lvjc-zemelapis-test/static/media/veliava.a0cc914d3cd3dceca2c5.png",
-    "static/media/gaivinimas.png": "/lvjc-zemelapis-test/static/media/gaivinimas.bd5b923bfc778b4bc233.png",
-    "static/media/taisykles.png": "/lvjc-zemelapis-test/static/media/taisykles.470f7dcccd560120e089.png",
-    "static/media/sveikata.png": "/lvjc-zemelapis-test/static/media/sveikata.819761ef2e82d1ebbba4.png",
-    "static/media/pavojai.png": "/lvjc-zemelapis-test/static/media/pavojai.1a391e3a83364927cc1e.png",
-    "static/media/saugumas.png": "/lvjc-zemelapis-test/static/media/saugumas.df88554a09bb098019c9.png",
-    "static/media/112.png": "/lvjc-zemelapis-test/static/media/112.92b973524e6bbc3cff35.png",
-    "index.html": "/lvjc-zemelapis-test/index.html",
-    "main.473e34c1.css.map": "/lvjc-zemelapis-test/static/css/main.473e34c1.css.map",
-    "main.84d81dc5.js.map": "/lvjc-zemelapis-test/static/js/main.84d81dc5.js.map"
+    "main.css": "/raseiniu-knyga-test/static/css/main.04ab9594.css",
+    "main.js": "/raseiniu-knyga-test/static/js/main.1ca03833.js",
+    "static/media/map_icons.jpg": "/raseiniu-knyga-test/static/media/map_icons.a773577636fc3a2c4322.jpg",
+    "static/media/iskaba.png": "/raseiniu-knyga-test/static/media/iskaba.26301db635197747173a.png",
+    "static/media/savipagalba.png": "/raseiniu-knyga-test/static/media/savipagalba.8584bf1f688e87b48e5b.png",
+    "static/media/pagalba.png": "/raseiniu-knyga-test/static/media/pagalba.75a87da2a4a4e621bc28.png",
+    "static/media/valtyje.png": "/raseiniu-knyga-test/static/media/valtyje.4ed30e385726433683d6.png",
+    "static/media/veliava.png": "/raseiniu-knyga-test/static/media/veliava.a0cc914d3cd3dceca2c5.png",
+    "static/media/gaivinimas.png": "/raseiniu-knyga-test/static/media/gaivinimas.bd5b923bfc778b4bc233.png",
+    "static/media/taisykles.png": "/raseiniu-knyga-test/static/media/taisykles.470f7dcccd560120e089.png",
+    "static/media/sveikata.png": "/raseiniu-knyga-test/static/media/sveikata.819761ef2e82d1ebbba4.png",
+    "static/media/pavojai.png": "/raseiniu-knyga-test/static/media/pavojai.1a391e3a83364927cc1e.png",
+    "static/media/flag_board.png": "/raseiniu-knyga-test/static/media/flag_board.ed017c28da5129837cb2.png",
+    "static/media/saugumas.png": "/raseiniu-knyga-test/static/media/saugumas.df88554a09bb098019c9.png",
+    "static/media/112.png": "/raseiniu-knyga-test/static/media/112.92b973524e6bbc3cff35.png",
+    "index.html": "/raseiniu-knyga-test/index.html",
+    "main.04ab9594.css.map": "/raseiniu-knyga-test/static/css/main.04ab9594.css.map",
+    "main.1ca03833.js.map": "/raseiniu-knyga-test/static/js/main.1ca03833.js.map"
   },
   "entrypoints": [
-    "static/css/main.473e34c1.css",
-    "static/js/main.84d81dc5.js"
+    "static/css/main.04ab9594.css",
+    "static/js/main.1ca03833.js"
   ]
 }
