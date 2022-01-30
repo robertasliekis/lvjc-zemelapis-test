@@ -26,6 +26,7 @@ ul li {
   --global-color-background: rgb(240, 231, 203);
   --global-color-grey-light: rgb(165, 165, 165);
   --global-color-grey-dark: rgb(84, 91, 94);
+  --scale-factor: 1.3;
 }
 
 p {
@@ -52,6 +53,7 @@ body {
   line-height: 25px;
   height: 100%;
   width: 100%;
+  background-color: #e7e2cc;
 }
 
 .App {
@@ -134,8 +136,8 @@ img.flag-board {
             transform: translate(-50%, -50%) scale(1);
   }
   50% {
-    -webkit-transform: translate(-50%, -50%) scale(1.3);
-            transform: translate(-50%, -50%) scale(1.3);
+    -webkit-transform: translate(-50%, -50%) scale(var(--scale-factor));
+            transform: translate(-50%, -50%) scale(var(--scale-factor));
   }
   100% {
     -webkit-transform: translate(-50%, -50%) scale(1);
@@ -149,8 +151,8 @@ img.flag-board {
             transform: translate(-50%, -50%) scale(1);
   }
   50% {
-    -webkit-transform: translate(-50%, -50%) scale(1.3);
-            transform: translate(-50%, -50%) scale(1.3);
+    -webkit-transform: translate(-50%, -50%) scale(var(--scale-factor));
+            transform: translate(-50%, -50%) scale(var(--scale-factor));
   }
   100% {
     -webkit-transform: translate(-50%, -50%) scale(1);
@@ -194,13 +196,12 @@ img.flag-board {
 }
 
 .icons-wrapper .icon-savipagalba {
-  height: 40px;
+  height: 2.6%;
   top: 42.7%;
   left: 64.9%;
 }
 
 .icons-wrapper .icon-valtyje {
-  height: 52px;
   top: 62.4%;
   left: 82.9%;
 }
@@ -211,7 +212,7 @@ img.flag-board {
 }
 
 .icons-wrapper .icon-iskaba {
-  height: 37px;
+  height: 2.5%;
   top: 71.1%;
   left: 25.5%;
 }
@@ -330,7 +331,34 @@ img.flag-board {
 
 @media (max-width: 1024px) {
   .info-window {
-    width: 65%;
+    width: calc(100% - 200px);
+  }
+}
+
+@media (max-width: 420px) {
+  :root {
+    --scale-factor: 1.5 !important;
+  }
+  .info-window {
+    top: 0;
+    padding-top: 60px;
+    -webkit-transform: translate(-50%, 10px);
+            transform: translate(-50%, 10px);
+    width: calc(100% - 20px);
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .info-window p {
+    line-height: 17px;
+  }
+  .info-window .text ul li {
+    padding-left: 12px;
+  }
+  .info-window .text ul li div {
+    margin-top: 4px;
+    width: 6px;
+    min-width: 6px;
+    height: 6px;
   }
 }
 /*# sourceMappingURL=index.css.map */

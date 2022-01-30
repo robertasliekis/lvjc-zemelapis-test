@@ -75,7 +75,6 @@ const texts = [
     image: "valtyje",
     title: "VALTYJE",
     description: [
-      "Valtyje:",
       ["Turėkite semtuvėlį ir gelbėjimosi ratą,", "Ramiai sėdėkite, nevaikščiokite, nestovėkite, nesupkite valties,", "Vilkėkite gelbėjimosi liemenę,", "Nesėskite į valtį jeigu joje nėra irklų."],
     ],
   },
