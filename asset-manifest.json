@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lvjc-zemelapis-test/static/css/main.8df0b083.css",
+    "main.css": "/lvjc-zemelapis-test/static/css/main.43f929b4.css",
     "main.js": "/lvjc-zemelapis-test/static/js/main.06ed2112.js",
     "static/media/map_icons.jpg": "/lvjc-zemelapis-test/static/media/map_icons.a773577636fc3a2c4322.jpg",
     "static/media/iskaba.png": "/lvjc-zemelapis-test/static/media/iskaba.26301db635197747173a.png",
@@ -16,11 +16,11 @@
     "static/media/saugumas.png": "/lvjc-zemelapis-test/static/media/saugumas.df88554a09bb098019c9.png",
     "static/media/112.png": "/lvjc-zemelapis-test/static/media/112.92b973524e6bbc3cff35.png",
     "index.html": "/lvjc-zemelapis-test/index.html",
-    "main.8df0b083.css.map": "/lvjc-zemelapis-test/static/css/main.8df0b083.css.map",
+    "main.43f929b4.css.map": "/lvjc-zemelapis-test/static/css/main.43f929b4.css.map",
     "main.06ed2112.js.map": "/lvjc-zemelapis-test/static/js/main.06ed2112.js.map"
   },
   "entrypoints": [
-    "static/css/main.8df0b083.css",
+    "static/css/main.43f929b4.css",
     "static/js/main.06ed2112.js"
   ]
 }
