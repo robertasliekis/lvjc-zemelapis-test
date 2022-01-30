@@ -40,6 +40,7 @@ function App() {
             </div>
           </div>
         ) : null}
+        <img className="flag-board" src={require("./images/flag_board.png")} alt="" />
       </div>
     </div>
   );
