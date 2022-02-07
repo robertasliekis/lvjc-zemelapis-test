@@ -27,13 +27,13 @@ function App() {
 
     if (key === 10) {
       if (screenWidth > 1000) {
-        setInfoWindowTop(window.innerHeight / 1.3);
+        setInfoWindowTop(700);
       } else if (screenWidth > 800) {
-        setInfoWindowTop(window.innerHeight / 2);
+        setInfoWindowTop(400);
       } else if (screenWidth > 600) {
-        setInfoWindowTop(window.innerHeight / 2.5);
+        setInfoWindowTop(150);
       } else {
-        setInfoWindowTop(50);
+        setInfoWindowTop(20);
       }
     } else {
       setInfoWindowTop(iconTopPosition);
