@@ -220,9 +220,8 @@ img.flag-board {
 
 .info-window {
   position: absolute;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  top: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
   left: 50%;
   width: 50%;
   background-color: white;
